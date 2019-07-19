@@ -63,10 +63,10 @@ displayed if the 'eventbrite' field in the header is not set.
 <!-- Below is optional element styling  //-->
 <style>
 #s_lc_event_5584425 {
-  background: #DFDFDF;
+  background: #FF6600;
   border: 1px solid #DFDFDF;
   border-radius: 4px;
-  color: #777777;
+  color: white;
   font: 18px Arial, Helvetica, Verdana;
   padding: 8px 20px;
   cursor: pointer;
